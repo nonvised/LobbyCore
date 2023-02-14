@@ -2,10 +2,18 @@
 
 Support on discord server: https://discord.gg/zdxqSU6PU8
 
-#Command
+# Command
 
-#/fly
+/fly
 
-#/gmc
+/gmc
 
-#/vanish
+/vanish
+
+# Feature
+
+BlockPlace Cancelled
+
+BlockBreak Cancelled
+
+BlockBurn Cancelled
