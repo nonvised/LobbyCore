@@ -1,10 +1,6 @@
 # LobbyCore
 
-Command
--fly
--gmc
--vanish
-Listeners
--BlockBreak
--BlockPlace
--BlockBurn
+Support on discord server: https://discord.gg/zdxqSU6PU8
+
+#Command
+#fly
