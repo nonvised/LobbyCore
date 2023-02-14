@@ -3,4 +3,9 @@
 Support on discord server: https://discord.gg/zdxqSU6PU8
 
 #Command
-#fly
+
+#/fly
+
+#/gmc
+
+#/vanish
