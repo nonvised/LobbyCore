@@ -1,0 +1,8 @@
+FlyEnable: "&bVip> &7Hai &aattivato &7la fly!"
+FlyDisable: "&bVip> &7Hai &cdisattivato &7la fly!"
+GamemodeEnable: "&bStaff> &7Sei passato alla GameMode &aCREATIVE!"
+GamemodeDisable: "&bStaff> &7Sei passato alla GameMode &aSURVIVAL!"
+VanishEnable: "&bStaff> &7Hai &aattivato &7la vanish!"
+VanishDisable: "&bStaff> &7Hai &cdisattivato &7la vanish!"
+BlockBreakCancelled: "&cNon puoi spaccare i blocchi!"
+BlockPlaceCancelled: "&cNon puoi piazzare i blocchi!"

@@ -1,0 +1,28 @@
+name: LobbyCore
+version: '${project.version}'
+main: me.vaced.lobbycore.LobbyCore
+api-version: 1.19
+authors: [ Vaced_ ]
+description: Core For Lobby
+commands:
+  fly:
+    description: Fly Command
+    usage: /<command>
+  gmc:
+    description: Change Gamemode to creative/survival
+  vanish:
+    description: invisible player
+  core:
+    description: view core version
+    aliases:
+      - lb
+      - cl
+      - l
+      - c
+  corestaff:
+    description: view core versions + command
+    aliases:
+      - cf
+      - lcf
+      - lf
+      - cf
